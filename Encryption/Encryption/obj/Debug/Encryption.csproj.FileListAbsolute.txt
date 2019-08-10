@@ -1,0 +1,4 @@
+E:\Projects\Prototypes\Encryption\Encryption\bin\Debug\Infinitum.Encryption.dll
+E:\Projects\Prototypes\Encryption\Encryption\bin\Debug\Infinitum.Encryption.pdb
+E:\Projects\Prototypes\Encryption\Encryption\obj\Debug\Infinitum.Encryption.dll
+E:\Projects\Prototypes\Encryption\Encryption\obj\Debug\Infinitum.Encryption.pdb

@@ -1,0 +1,13 @@
+C:\Users\basura\Desktop\Encryption\Encrypto\bin\Debug\Encrypto.exe.config
+C:\Users\basura\Desktop\Encryption\Encrypto\bin\Debug\Encrypto.exe
+C:\Users\basura\Desktop\Encryption\Encrypto\bin\Debug\Encrypto.pdb
+C:\Users\basura\Desktop\Encryption\Encrypto\bin\Debug\Infinitum.Encryption.dll
+C:\Users\basura\Desktop\Encryption\Encrypto\bin\Debug\Infinitum.Encryption.pdb
+C:\Users\basura\Desktop\Encryption\Encrypto\obj\Debug\Encrypto.csprojResolveAssemblyReference.cache
+C:\Users\basura\Desktop\Encryption\Encrypto\obj\Debug\Encrypto.Encrypt.resources
+C:\Users\basura\Desktop\Encryption\Encrypto\obj\Debug\Encrypto.Properties.Resources.resources
+C:\Users\basura\Desktop\Encryption\Encrypto\obj\Debug\Encrypto.StartUp.resources
+C:\Users\basura\Desktop\Encryption\Encrypto\obj\Debug\Encrypto.csproj.GenerateResource.Cache
+C:\Users\basura\Desktop\Encryption\Encrypto\obj\Debug\Encrypto.exe
+C:\Users\basura\Desktop\Encryption\Encrypto\obj\Debug\Encrypto.pdb
+C:\Users\basura\Desktop\Encryption\Encrypto\obj\Debug\Encrypto.Decrypt.resources

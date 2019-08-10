@@ -1,0 +1,16 @@
+E:\Projects\Prototypes\Encryption\EncryptionTest\bin\Debug\EncryptionTest.exe.config
+E:\Projects\Prototypes\Encryption\EncryptionTest\bin\Debug\EncryptionTest.exe
+E:\Projects\Prototypes\Encryption\EncryptionTest\bin\Debug\EncryptionTest.pdb
+E:\Projects\Prototypes\Encryption\EncryptionTest\bin\Debug\Infinitum.Encryption.dll
+E:\Projects\Prototypes\Encryption\EncryptionTest\bin\Debug\Infinitum.Encryption.pdb
+E:\Projects\Prototypes\Encryption\EncryptionTest\obj\Debug\EncryptionTest.csprojResolveAssemblyReference.cache
+E:\Projects\Prototypes\Encryption\EncryptionTest\obj\Debug\EncryptionTest.exe
+E:\Projects\Prototypes\Encryption\EncryptionTest\obj\Debug\EncryptionTest.pdb
+C:\Users\basura\Desktop\Encryption\EncryptionTest\bin\Debug\EncryptionTest.exe.config
+C:\Users\basura\Desktop\Encryption\EncryptionTest\bin\Debug\EncryptionTest.exe
+C:\Users\basura\Desktop\Encryption\EncryptionTest\bin\Debug\EncryptionTest.pdb
+C:\Users\basura\Desktop\Encryption\EncryptionTest\bin\Debug\Infinitum.Encryption.dll
+C:\Users\basura\Desktop\Encryption\EncryptionTest\bin\Debug\Infinitum.Encryption.pdb
+C:\Users\basura\Desktop\Encryption\EncryptionTest\obj\Debug\EncryptionTest.csprojResolveAssemblyReference.cache
+C:\Users\basura\Desktop\Encryption\EncryptionTest\obj\Debug\EncryptionTest.exe
+C:\Users\basura\Desktop\Encryption\EncryptionTest\obj\Debug\EncryptionTest.pdb
